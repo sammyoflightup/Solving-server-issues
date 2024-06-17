@@ -1,5 +1,4 @@
-# Solving-server-issues
-# Incident Management Repository
+# Sserver-issues Response and Resolution
 TeamViewer: TeamViewer
 ## Server Downtime Issue
 
