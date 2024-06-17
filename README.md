@@ -1,4 +1,4 @@
-# Sserver-issues Response and Resolution
+# Server-issues Response and Resolution
 TeamViewer: TeamViewer
 ## Server Downtime Issue
 
