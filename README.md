@@ -19,6 +19,9 @@ This repository documents the incident management process for a critical server 
 #### - Remote Desktop Tools - TeamView & Open SSH
 #### - System Logs Analysis Tools - Splunk
 #### - Diagnostic and Monitoring Tools - Prometheus
+#### - Network and Connectivity Tools:-  Wireshark
+#### - Security and Access Control - AWS: AWS Management Console, Azure: Azure Portal   
+
 
 ### Outcome
 The incident was successfully resolved within 35mins, ensuring minimal downtime and optimizing system performance post-incident.
